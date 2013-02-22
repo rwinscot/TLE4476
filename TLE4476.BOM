@@ -1,0 +1,36 @@
+Part Name:					TLE4476
+Description:				Dual output (3.3v / 5v ) LDO regulator.
+Manufacturer:				Infineon Technologies
+Manufacturer Part Number:	TLE4476D
+Digi-Key Part Number:		TLE4476DCT-ND	
+Cost:						$3.32
+URL: http://www.digikey.com/product-detail/en/TLE4476D/TLE4476DCT-ND/2231216
+
+
+Part Name:					22uF Capacitor
+Description:				CAP CER 22UF 16V 20% X5R 1206
+Manufacturer:				Taiyo Yuden
+Manufacturer Part Number:	EMK316BJ226ML-T
+Digi-Key Part Number:		587-1433-1-ND	
+Cost:						$0.60
+URL: http://www.digikey.com/product-detail/en/EMK316BJ226ML-T/587-1433-1-ND/1004064
+
+
+Part Name:					.47 uF Capacitor
+Description:				CAP CER 0.47UF 50V 5% X8L 1206
+Manufacturer:				Kemet
+Manufacturer Part Number:	C1206C474J5NACTU
+Digi-Key Part Number:		399-5771-1-ND	
+Cost:						$0.84
+URL: http://www.digikey.com/product-detail/en/C1206C474J5NACTU/399-5771-1-ND/2236778
+
+
+You can use any of the following methods to hook up power to the PCB.
+
+Barrel Connector
+http://adafruit.com/products/373
+
+PC Terminals
+http://adafruit.com/products/724
+
+...bare wires that terminate in anything but a ham sandwich. Maybe.
